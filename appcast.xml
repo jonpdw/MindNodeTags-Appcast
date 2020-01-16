@@ -12,7 +12,30 @@
 </ul>
 ]]></description>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/jonpdw/MindNodeTags-Appcast/raw/master/MindNode%20Tags.zip" sparkle:version="1" sparkle:shortVersionString="1.0" length="6623871" type="application/octet-stream" sparkle:edSignature="gD1ZK/6vfBMGi7iJqdbeviW7KyuVytZDCuHta4wp/Eihgzlou3huDOulp7kS4dGyb/A8xUXldzmQDoNQKhn0Bw=="/>
+            <enclosure url="https://github.com/jonpdw/MindNodeTags-Appcast/raw/master/MindNode%20Tags%20$VERSION.zip" sparkle:version="1" sparkle:shortVersionString="1.0" length="6623871" type="application/octet-stream" sparkle:edSignature="gD1ZK/6vfBMGi7iJqdbeviW7KyuVytZDCuHta4wp/Eihgzlou3huDOulp7kS4dGyb/A8xUXldzmQDoNQKhn0Bw=="/>
+        </item>
+        <item>
+            <title>1.0</title>
+            <pubDate>Thu, 16 Jan 2020 23:44:17 +1300</pubDate>
+            <description><![CDATA[
+]]></description>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/jonpdw/MindNodeTags-Appcast/raw/master/MindNode%20Tags%201.0.zip" sparkle:version="1.0" sparkle:shortVersionString="1.0" length="6623095" type="application/octet-stream" sparkle:edSignature="oNWxki1AA7XBaE9BpsXTrVNNzJRkLWTUdM6zxOB7ZkYloRx3aW32QQbcaFEgbke5qA065ENd0sA9MSQ1xupdCw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jonpdw/MindNodeTags-Appcast/raw/master/MindNode%20Tags1.0-1.delta" sparkle:version="1.0" sparkle:shortVersionString="1.0" sparkle:deltaFrom="1" length="1490326" type="application/octet-stream" sparkle:edSignature="BO7TO4AKz0/CVF5+ttNhtOXrrsnbBVb0zcSwCVhap/UinCjXUB6P/kNSpTdIb20yBhVKhDjDeV9v0VjtcdHUAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.1</title>
+            <pubDate>Thu, 16 Jan 2020 23:49:42 +1300</pubDate>
+            <description><![CDATA[<p><strong>Version 1.1</strong> My first test update Major changes * I added new features * * fixed this bug</p>
+]]></description>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/jonpdw/MindNodeTags-Appcast/raw/master/MindNode%20Tags%201.1.zip" sparkle:version="1.1" sparkle:shortVersionString="1.1" length="6623100" type="application/octet-stream" sparkle:edSignature="nMupbANhhzqkWAAYT33gDwEquBCmumrQJGt7xSXGf4bjz+9xhSO/jshrVqyTl2iMyfejYN8Icya0BfhmZUR/BQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jonpdw/MindNodeTags-Appcast/raw/master/MindNode%20Tags1.1-1.0.delta" sparkle:version="1.1" sparkle:shortVersionString="1.1" sparkle:deltaFrom="1.0" length="1941" type="application/octet-stream" sparkle:edSignature="rYnEh+iKOZTeyiNoYqDYsyGHkSYKu1eFUf0lwLvlXRsBViDqFZ7wpcfZEKTThYe1vtE/CJXis/fxFvobfY2vAQ=="/>
+                <enclosure url="https://github.com/jonpdw/MindNodeTags-Appcast/raw/master/MindNode%20Tags1.1-1.delta" sparkle:version="1.1" sparkle:shortVersionString="1.1" sparkle:deltaFrom="1" length="1490399" type="application/octet-stream" sparkle:edSignature="xCVZK/kocJHUp3XyN4lo+WdvHnyhL9oNKRqETdIFbBg7IWglPndISnox6VvGVTl5JMd85+dqwUwB7Udqmwt3DQ=="/>
+            </sparkle:deltas>
         </item>
     </channel>
 </rss>
