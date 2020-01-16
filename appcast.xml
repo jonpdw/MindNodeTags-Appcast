@@ -6,8 +6,13 @@
             <title>1.0</title>
             <pubDate>Thu, 16 Jan 2020 18:31:57 +1300</pubDate>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure url="MindNode%20Tags.zip" sparkle:version="1" sparkle:shortVersionString="1.0" length="6623108" type="application/octet-stream" sparkle:edSignature="K8sRjX8p31pbz0exXcXM90+63+iWjMq+G9pcWZWdTG0OIbV8nMk6zikrLv5xh9kJ1BmVIszcU6fZbz9sQCQvBQ=="/>
-            <description><![CDATA[]]></description>
+            <enclosure url="MindNode%20Tags.zip" sparkle:version="1" sparkle:shortVersionString="1.0" length="6623872" type="application/octet-stream" sparkle:edSignature="HhPEJkgUjig9V9B46qQg73n3rDhrLtaLOW29qkaZJVCvV4djGoGwbfUi8xICzKQxTEDiNwzw5OlesFh6QGHEAA=="/>
+            <description><![CDATA[<ul>
+<li>test1</li>
+<li>test2</li>
+<li>test3</li>
+</ul>
+]]></description>
         </item>
     </channel>
 </rss>

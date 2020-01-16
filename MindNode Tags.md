@@ -1,2 +1,0 @@
-- things are good
-- don't do nasty things 
