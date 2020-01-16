@@ -12,7 +12,7 @@
 </ul>
 ]]></description>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/jonpdw/MindNodeTags-Appcast/raw/master/MindNode%20Tags%20$VERSION.zip" sparkle:version="1" sparkle:shortVersionString="1.0" length="6623871" type="application/octet-stream" sparkle:edSignature="gD1ZK/6vfBMGi7iJqdbeviW7KyuVytZDCuHta4wp/Eihgzlou3huDOulp7kS4dGyb/A8xUXldzmQDoNQKhn0Bw=="/>
+            <enclosure url="MindNode%20Tags.zip" sparkle:version="1" sparkle:shortVersionString="1.0" length="6623871" type="application/octet-stream" sparkle:edSignature="gD1ZK/6vfBMGi7iJqdbeviW7KyuVytZDCuHta4wp/Eihgzlou3huDOulp7kS4dGyb/A8xUXldzmQDoNQKhn0Bw=="/>
         </item>
         <item>
             <title>1.0</title>
@@ -35,6 +35,19 @@
             <sparkle:deltas>
                 <enclosure url="https://github.com/jonpdw/MindNodeTags-Appcast/raw/master/MindNode%20Tags1.1-1.0.delta" sparkle:version="1.1" sparkle:shortVersionString="1.1" sparkle:deltaFrom="1.0" length="1941" type="application/octet-stream" sparkle:edSignature="rYnEh+iKOZTeyiNoYqDYsyGHkSYKu1eFUf0lwLvlXRsBViDqFZ7wpcfZEKTThYe1vtE/CJXis/fxFvobfY2vAQ=="/>
                 <enclosure url="https://github.com/jonpdw/MindNodeTags-Appcast/raw/master/MindNode%20Tags1.1-1.delta" sparkle:version="1.1" sparkle:shortVersionString="1.1" sparkle:deltaFrom="1" length="1490399" type="application/octet-stream" sparkle:edSignature="xCVZK/kocJHUp3XyN4lo+WdvHnyhL9oNKRqETdIFbBg7IWglPndISnox6VvGVTl5JMd85+dqwUwB7Udqmwt3DQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.1.1</title>
+            <pubDate>Thu, 16 Jan 2020 23:57:20 +1300</pubDate>
+            <description><![CDATA[<p><strong>1.1</strong> -love</p>
+]]></description>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/jonpdw/MindNodeTags-Appcast/raw/master/MindNode%20Tags%201.1.1.zip" sparkle:version="1.1.1" sparkle:shortVersionString="1.1.1" length="6623100" type="application/octet-stream" sparkle:edSignature="1TsKTYA2BA9dogO7NtSmJ2xWFWl4vt1yAshVo7oQQxJOW5W1A2V50o6bkCAonJiQKPKif9+1lcxMPwo2vKJjAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jonpdw/MindNodeTags-Appcast/raw/master/MindNode%20Tags1.1.1-1.1.delta" sparkle:version="1.1.1" sparkle:shortVersionString="1.1.1" sparkle:deltaFrom="1.1" length="1931" type="application/octet-stream" sparkle:edSignature="kJAGK2wh2S9TWXylw4iQKQGdytAypND1fIG2uzbNr9b2cjDrzatg5j+amk1bLQsmCrNL4pbCDY9rMLr97xSyAA=="/>
+                <enclosure url="https://github.com/jonpdw/MindNodeTags-Appcast/raw/master/MindNode%20Tags1.1.1-1.0.delta" sparkle:version="1.1.1" sparkle:shortVersionString="1.1.1" sparkle:deltaFrom="1.0" length="1948" type="application/octet-stream" sparkle:edSignature="JB0KL3x64859+guk9lg6mVkegc1MSfmFd9n3J4Q6aWCwfbYhZ7MrFFqlNOaI4bGy88FXiwMQtUjJSW9HnDNZCw=="/>
+                <enclosure url="https://github.com/jonpdw/MindNodeTags-Appcast/raw/master/MindNode%20Tags1.1.1-1.delta" sparkle:version="1.1.1" sparkle:shortVersionString="1.1.1" sparkle:deltaFrom="1" length="1490380" type="application/octet-stream" sparkle:edSignature="AIygN+EDqWaQMcZHVVIOn7aznrM7Op4V26PVbP7DCGFs3m9nmgXz0SiI/bUEP0vJb+wdAf7noSt9VfCYlMnYCQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
