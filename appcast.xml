@@ -12,7 +12,7 @@
 </ul>
 ]]></description>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure url="MindNode%20Tags.zip" sparkle:version="1" sparkle:shortVersionString="1.0" length="6623871" type="application/octet-stream" sparkle:edSignature="V+pBgZLOFoPHSQaa4WDCEa1sUxxXB+fwyz4DKLHN+mJ9zr3lxm1HEGcElbxi/nLbLC51hKpaiitLRfAcWuL2DQ=="/>
+            <enclosure url="MindNode%20Tags.zip" sparkle:version="1" sparkle:shortVersionString="1.0" length="6623871" type="application/octet-stream" sparkle:edSignature="LVU4lR4vRvhhtDkvgO7OG9yhDBaP4XfLOc8l4QeRboFKIEGfuGixn9mEv41l13WpK1zx3PZyUpoUU/UBoL0kDQ=="/>
         </item>
     </channel>
 </rss>
