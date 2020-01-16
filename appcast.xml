@@ -6,7 +6,7 @@
             <title>1.0</title>
             <pubDate>Thu, 16 Jan 2020 18:31:57 +1300</pubDate>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/jonpdw/MindNode-Tags/releases/latest/download/MindNode_Tags_Application.zip" sparkle:version="1" sparkle:shortVersionString="1.0" length="6623091" type="application/octet-stream" sparkle:edSignature="mV5qhbpsg5EPGjh2I0QgtYUJ4i1mqwMtXUQQ62nNiKsq3ctCgBDsW34uyQ4sRFjGtm0TCl1SY+BUVOATfzgLAg=="/>
+            <enclosure url="MindNode%20Tags.zip" sparkle:version="1" sparkle:shortVersionString="1.0" length="6623108" type="application/octet-stream" sparkle:edSignature="K8sRjX8p31pbz0exXcXM90+63+iWjMq+G9pcWZWdTG0OIbV8nMk6zikrLv5xh9kJ1BmVIszcU6fZbz9sQCQvBQ=="/>
             <description><![CDATA[]]></description>
         </item>
     </channel>
