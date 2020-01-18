@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>MindNode Tags</title>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Sun, 19 Jan 2020 01:00:03 +1300</pubDate>
+            <description><![CDATA[<ul>
+<li>Initial Release</li>
+</ul>
+]]></description>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/jonpdw/MindNodeTags-Appcast/raw/master/MindNode%20Tags%201.0.1.zip" sparkle:version="1.0.1" sparkle:shortVersionString="1.0.1" length="6507567" type="application/octet-stream" sparkle:edSignature="3tmk7t5RR0aBHb+rAxNaW1i+ZLaY91lq86mUCLYQPouHssQQVuYq0D2b6rmsGEf/bUq/MHmHhoa92g/k+sGvCg=="/>
+        </item>
+    </channel>
+</rss>
