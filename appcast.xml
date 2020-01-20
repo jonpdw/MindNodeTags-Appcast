@@ -12,5 +12,18 @@
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/jonpdw/MindNodeTags-Appcast/raw/master/MindNode%20Tags%201.0.1.zip" sparkle:version="1.0.1" sparkle:shortVersionString="1.0.1" length="6507567" type="application/octet-stream" sparkle:edSignature="3tmk7t5RR0aBHb+rAxNaW1i+ZLaY91lq86mUCLYQPouHssQQVuYq0D2b6rmsGEf/bUq/MHmHhoa92g/k+sGvCg=="/>
         </item>
+        <item>
+            <title>1.0.2</title>
+            <pubDate>Mon, 20 Jan 2020 20:55:18 +1300</pubDate>
+            <description><![CDATA[<ul>
+<li>Countly analytics integration</li>
+</ul>
+]]></description>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/jonpdw/MindNodeTags-Appcast/raw/master/MindNode%20Tags%201.0.2.zip" sparkle:version="1.0.2" sparkle:shortVersionString="1.0.2" length="6611506" type="application/octet-stream" sparkle:edSignature="0sVMkMFhATlF3EYugj3etJDuxc/ixDJHEL3xlVjB8UavbIHwShJjSY1cBqIyGMuKeJfXAlMpiIuxL2QriOWXCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jonpdw/MindNodeTags-Appcast/raw/master/MindNode%20Tags1.0.2-1.0.1.delta" sparkle:version="1.0.2" sparkle:shortVersionString="1.0.2" sparkle:deltaFrom="1.0.1" length="154554" type="application/octet-stream" sparkle:edSignature="hFgchgMoALSS4Y3VaL0CF4G5CMf4z9h3dsAUYqKvqZsAB3howA0rzxqJz1F7swk7vb0akYXWgaKLsuSVPsbsAQ=="/>
+            </sparkle:deltas>
+        </item>
     </channel>
 </rss>
